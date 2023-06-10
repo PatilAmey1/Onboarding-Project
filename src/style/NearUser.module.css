@@ -1,0 +1,9 @@
+.NearUserImg{
+    margin-top: -25px;
+}
+.userDiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+}

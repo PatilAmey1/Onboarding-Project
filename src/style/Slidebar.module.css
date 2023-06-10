@@ -1,0 +1,7 @@
+.slidebar{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 50px;
+   padding-top: 30px;
+}

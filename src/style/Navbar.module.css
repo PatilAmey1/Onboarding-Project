@@ -1,0 +1,6 @@
+.NavbarDiv{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 20px;
+}

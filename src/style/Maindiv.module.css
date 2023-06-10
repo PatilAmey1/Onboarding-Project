@@ -1,0 +1,23 @@
+.App {
+    /* text-align: center; */
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+  }
+  .App>div:nth-child(1){
+      width: 4%;
+      background-color: black;
+      height: 100vw;
+      
+  }
+  .App>div:nth-child(2){
+    width: 90%;
+    border: 1px soild red;
+  }
+
+ .ButtonStyle{
+    background-color: #e94057;
+    color:white;
+    font-weight:bold;
+    border:1px solid #e94057;
+ }
